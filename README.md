@@ -1,3 +1,5 @@
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Tableau-blue?style=for-the-badge&logo=tableau)
+
 # Coffee Shop Sales Analysis – Tableau Project
 
 ## 📊 Project Overview
@@ -69,5 +71,6 @@ The Tableau dashboard includes:
 - Certain niche products (like **ben-Vit wtr**) have lower sales and may require targeted marketing.
 - **Texan Burger** significantly outperforms Cheese Pizza by $1,000, indicating stronger demand for this menu item.
 - In the Pub category, **Chicken Tenders** is the clear leader, nearly 50% higher in sales than the next item.
+
 
 
